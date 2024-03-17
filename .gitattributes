@@ -1,1 +1,1 @@
-GenAI/Audio.py -text
+GenAI/*.py text eol=lf
